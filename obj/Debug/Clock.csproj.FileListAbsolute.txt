@@ -1,0 +1,9 @@
+C:\Users\Misiaczek\Desktop\zegarek\Clock\bin\Debug\Clock.exe.config
+C:\Users\Misiaczek\Desktop\zegarek\Clock\bin\Debug\Clock.exe
+C:\Users\Misiaczek\Desktop\zegarek\Clock\bin\Debug\Clock.pdb
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.exe
+C:\Users\Misiaczek\Desktop\zegarek\Clock\obj\Debug\Clock.pdb
